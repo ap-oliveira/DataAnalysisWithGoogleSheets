@@ -82,9 +82,9 @@ Aba “gráficos” contém 6 gráficos feitos para facilitar a visualização d
 
 Por fim, com base nessa análise básica já podemos ter uma ideia de algumas informações que poderiam nortear as próximas ações que essa Financeira Fictícia poderia tomar, como:
 
-os melhores clientes (ou aqueles que mais operam);
+- os melhores clientes (ou aqueles que mais operam);
 
-o Perfil majoritário de seus clientes;
+- o Perfil majoritário de seus clientes;
 
-se seus clientes perdem mais do que ganham nas operações (oportunidade de negócio, como talvez algum material educativo).
+- se seus clientes perdem mais do que ganham nas operações (oportunidade de negócio, como talvez algum material educativo).
 
