@@ -68,7 +68,7 @@ Aba “cliente_compra_venda” mostra outra tabela com o agrupamento das operaç
 
 Aba “cliente_lucro_prejuizo” mostra outra tabela com os agrupamentos das operações de cada cliente por Stiker. Nessa aba temos também alguns filtros que permitem ao usuário filtrar os dados por cliente e/ou por Stiker, e também uma mensagem fixada para o resultado do Lucro da cliente que a atividade pedia.
 
-<img src="/img/mercado_acoes_filtro.gif">
+<img src="/img/mercado_acoes_filtros.gif">
 
 
 
